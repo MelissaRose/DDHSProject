@@ -1,0 +1,67 @@
+@media (max-width: 22em){
+	body{
+		font-size: .9em;
+		padding: 0 1.5em;
+	}
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px 40px;
+
+}
+
+p {
+	text-align: center
+}
+
+#content {
+	width: 880px;
+	margin: 0 auto;
+	padding: 10px 40px 20px 40px
+	background:#FFF;
+	background:rgba(255, 255, 255, 0.75);
+}
+
+.motto {
+	font-family: 'Poly', serif;
+	font-size: 20px;
+}
+
+.quote {
+	font-family: garamond;
+	font-size: 20px;
+}
+
+.leonard {
+	text-align: center;
+}
+
+section {
+	width: 880px;
+	padding: 10px;
+	border: 5px solid gray;
+	margin: 0px;
+}
+
+h2 {
+	text-align: center;
+}
+
+.statue{
+	float: left;
+}
+
+.twitter-share-button {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.twitter-follow-button {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
